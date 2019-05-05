@@ -1,0 +1,15 @@
+{
+  "ethereum": {
+    "provider": "http://40.127.193.147:8546"
+  },
+  "elasticsearch": {
+    "host": "localhost:9200"
+  },
+  "contracts" : {
+    "intflow-messages": {
+      "address": "0x7db549025C204845542430DD5b4A7eF24423629E",
+      "index": "intflow-messages"
+    }
+  }
+}
+
